@@ -22,9 +22,6 @@
   <a href="https://github.com/USERNAME/REPOSITORY/releases/latest/download/FaultPass-Windows.exe">
     <img src="https://img.shields.io/badge/Windows-Download-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows">
   </a>
-  <a href="https://github.com/USERNAME/REPOSITORY/releases/latest">
-    <img src="https://img.shields.io/badge/Latest%20Release-View-555555?style=flat-square" alt="Latest Release">
-  </a>
 </p>
 
 <p align="center">
@@ -45,12 +42,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/USERNAME/REPOSITORY/releases/latest/download/FaultPass-Windows.exe">
     💻 <strong>Windows</strong>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/USERNAME/REPOSITORY/releases/latest">
-    View Latest Release →
   </a>
 </p>
 
@@ -82,8 +73,6 @@ Built with simplicity and performance in mind, FaultPass delivers a modern conne
 **Windows**  
 [Download the latest version →](https://github.com/USERNAME/REPOSITORY/releases/latest/download/FaultPass-Windows.exe)
 
-[View all releases →](https://github.com/USERNAME/REPOSITORY/releases)
-
 ### Software License
 
 FaultPass is **proprietary software** and is **not open source**.
@@ -94,13 +83,15 @@ This repository is the official GitHub repository of FaultPass and is used exclu
 
 <a id="فارسی"></a>
 
+<div dir="rtl" align="right">
+
 ## 🇮🇷 فارسی
 
 ### درباره FaultPass
 
-**FaultPass** یک سرویس VPN بین‌المللی است که با هدف ارائه اتصال **امن، سریع و پایدار** به اینترنت طراحی شده است.
+**FaultPass** یک سرویس VPN بین‌المللی است که با هدف ارائه تجربه‌ای **امن، سریع و پایدار** از اتصال به اینترنت طراحی شده است.
 
-FaultPass با تمرکز بر **سادگی، عملکرد و تجربه کاربری مدرن** تلاش می‌کند اتصال به اینترنت را بدون پیچیدگی‌های غیرضروری در اختیار کاربران قرار دهد.
+FaultPass با تمرکز بر **سادگی، عملکرد و تجربه کاربری مدرن**، تلاش می‌کند اتصال قابل‌اعتماد به اینترنت را بدون پیچیدگی‌های غیرضروری در اختیار کاربران قرار دهد.
 
 ### ویژگی‌ها
 
@@ -113,18 +104,18 @@ FaultPass با تمرکز بر **سادگی، عملکرد و تجربه کار�
 ### دانلود
 
 **اندروید**  
-[دانلود آخرین نسخه →](https://github.com/USERNAME/REPOSITORY/releases/latest/download/FaultPass-Android.apk)
+[دانلود آخرین نسخه ←](https://github.com/USERNAME/REPOSITORY/releases/latest/download/FaultPass-Android.apk)
 
 **ویندوز**  
-[دانلود آخرین نسخه →](https://github.com/USERNAME/REPOSITORY/releases/latest/download/FaultPass-Windows.exe)
-
-[مشاهده تمام نسخه‌ها →](https://github.com/USERNAME/REPOSITORY/releases)
+[دانلود آخرین نسخه ←](https://github.com/USERNAME/REPOSITORY/releases/latest/download/FaultPass-Windows.exe)
 
 ### وضعیت نرم‌افزار
 
 FaultPass یک نرم‌افزار **اختصاصی (Proprietary)** و **غیرمتن‌باز** است.
 
 این مخزن، صفحه رسمی FaultPass در GitHub است و صرفاً برای انتشار نسخه‌های رسمی و ارائه اطلاعات مربوط به پروژه استفاده می‌شود.
+
+</div>
 
 ---
 
@@ -153,8 +144,6 @@ FaultPass сочетает **простоту, производительнос�
 
 **Windows**  
 [Скачать последнюю версию →](https://github.com/USERNAME/REPOSITORY/releases/latest/download/FaultPass-Windows.exe)
-
-[Посмотреть все версии →](https://github.com/USERNAME/REPOSITORY/releases)
 
 ### О программном обеспечении
 
@@ -189,8 +178,6 @@ FaultPass 专注于**简洁性、性能和现代化用户体验**，让用户能
 
 **Windows**  
 [下载最新版本 →](https://github.com/USERNAME/REPOSITORY/releases/latest/download/FaultPass-Windows.exe)
-
-[查看所有版本 →](https://github.com/USERNAME/REPOSITORY/releases)
 
 ### 软件说明
 
