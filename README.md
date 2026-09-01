@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/FaultPass/FaultPass/releases/tag/v4.2.0">
-    <img src="https://img.shields.io/github/v/release/USERNAME/REPOSITORY?style=flat-square&label=Version" alt="Version">
+    <img src="https://img.shields.io/github/v/release/FaultPass/FaultPass?style=flat-square&label=Version" alt="Version">
   </a>
   <a href="https://github.com/FaultPass/FaultPass/releases/download/v4.2.0/FaultPass.apk">
     <img src="https://img.shields.io/badge/Android-Download-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
