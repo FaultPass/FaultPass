@@ -13,10 +13,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/USERNAME/REPOSITORY/releases/latest">
+  <a href="https://github.com/FaultPass/FaultPass/releases/tag/v4.2.0">
     <img src="https://img.shields.io/github/v/release/USERNAME/REPOSITORY?style=flat-square&label=Version" alt="Version">
   </a>
-  <a href="https://github.com/USERNAME/REPOSITORY/releases/latest/download/FaultPass-Android.apk">
+  <a href="https://github.com/FaultPass/FaultPass/releases/download/v4.2.0/FaultPass.apk">
     <img src="https://img.shields.io/badge/Android-Download-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
   </a>
   <a href="https://github.com/USERNAME/REPOSITORY/releases/latest/download/FaultPass-Windows.exe">
@@ -36,7 +36,7 @@
 <h2 align="center">⬇️ Download FaultPass</h2>
 
 <p align="center">
-  <a href="https://github.com/USERNAME/REPOSITORY/releases/latest/download/FaultPass-Android.apk">
+  <a href="https://github.com/FaultPass/FaultPass/releases/download/v4.2.0/FaultPass.apk">
     📱 <strong>Android</strong>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -68,7 +68,7 @@ Built with simplicity and performance in mind, FaultPass delivers a modern conne
 ### Downloads
 
 **Android**  
-[Download the latest version →](https://github.com/USERNAME/REPOSITORY/releases/latest/download/FaultPass-Android.apk)
+[Download the latest version →](https://github.com/FaultPass/FaultPass/releases/download/v4.2.0/FaultPass.apk)
 
 **Windows**  
 [Download the latest version →](https://github.com/USERNAME/REPOSITORY/releases/latest/download/FaultPass-Windows.exe)
@@ -104,7 +104,7 @@ FaultPass با تمرکز بر **سادگی، عملکرد و تجربه کار�
 ### دانلود
 
 **اندروید**  
-[دانلود آخرین نسخه ←](https://github.com/USERNAME/REPOSITORY/releases/latest/download/FaultPass-Android.apk)
+[دانلود آخرین نسخه ←](https://github.com/FaultPass/FaultPass/releases/download/v4.2.0/FaultPass.apk)
 
 **ویندوز**  
 [دانلود آخرین نسخه ←](https://github.com/USERNAME/REPOSITORY/releases/latest/download/FaultPass-Windows.exe)
@@ -140,7 +140,7 @@ FaultPass сочетает **простоту, производительнос�
 ### Скачать
 
 **Android**  
-[Скачать последнюю версию →](https://github.com/USERNAME/REPOSITORY/releases/latest/download/FaultPass-Android.apk)
+[Скачать последнюю версию →](https://github.com/FaultPass/FaultPass/releases/download/v4.2.0/FaultPass.apk)
 
 **Windows**  
 [Скачать последнюю версию →](https://github.com/USERNAME/REPOSITORY/releases/latest/download/FaultPass-Windows.exe)
@@ -174,7 +174,7 @@ FaultPass 专注于**简洁性、性能和现代化用户体验**，让用户能
 ### 下载
 
 **Android**  
-[下载最新版本 →](https://github.com/USERNAME/REPOSITORY/releases/latest/download/FaultPass-Android.apk)
+[下载最新版本 →](https://github.com/FaultPass/FaultPass/releases/download/v4.2.0/FaultPass.apk)
 
 **Windows**  
 [下载最新版本 →](https://github.com/USERNAME/REPOSITORY/releases/latest/download/FaultPass-Windows.exe)
