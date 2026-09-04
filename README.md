@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/FaultPass/FaultPass/releases">
+  <a href="https://github.com/FaultPass/FaultPass/releases/tag/v5.0.0">
     <img src="https://img.shields.io/github/v/release/FaultPass/FaultPass?style=flat-square&label=Version" alt="Version">
   </a>
   <a href="https://github.com/FaultPass/FaultPass/releases/download/v5.0.0/FaultPass-v5.0.0.apk">
