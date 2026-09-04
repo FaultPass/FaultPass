@@ -104,7 +104,7 @@ FaultPass با تمرکز بر **سادگی، عملکرد و تجربه کار�
 ### دانلود
 
 **اندروید**  
-[دانلود آخرین نسخه ←](https://github.com/FaultPass/FaultPass/releases/download/v4.2.1/FaultPass-v4.2.1.apk)
+[دانلود آخرین نسخه ←](https://github.com/FaultPass/FaultPass/releases/download/v5.0.0/FaultPass-v5.0.0.apk)
 
 **ویندوز**  
 [دانلود آخرین نسخه ←](https://github.com/USERNAME/REPOSITORY/releases/latest/download/FaultPass-Windows.exe)
